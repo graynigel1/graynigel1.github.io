@@ -1,5 +1,5 @@
 ---
-title: "Nigel Gray"
+title: "Nigel<br>Dinendra Gray"
 subtitle: "Harvard University"
 image: Images/nigel.jpg
 about: 
