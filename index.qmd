@@ -1,0 +1,9 @@
+---
+title: "Nigel Gray"
+subtitle: "Harvard University"
+image: Images/nigel.jpg
+about: 
+  template: trestles
+---
+
+Hello! I'm a Ph.D. student at Harvard University and I do research about ...
