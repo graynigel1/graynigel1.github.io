@@ -1,0 +1,47 @@
+---
+title: "Teaching"
+toc: false
+---
+
+---
+
+## Teaching Fellow
+
+::: teaching-card
+**Introductory and Intermediate Statistics for Educational Research: Applied Linear Regression (S-040)**
+[Harvard University]{.institution} · [Fall 2025, 2026]{.semester}
+
+Prof. [Joseph McIntyre](https://www.gse.harvard.edu/directory/faculty/joseph-mcintyre)
+:::
+
+::: teaching-card
+**Introduction to Statistical Computing and Data Science in Education (S-022)**
+[Harvard University]{.institution} · [Spring 2026]{.semester}
+
+Prof. [Luke Miratrix](https://www.gse.harvard.edu/directory/faculty/luke-miratrix)
+:::
+
+::: teaching-card
+**Human Development, Learning, and Teaching Core Seminar (S-802)**
+[Harvard University]{.institution} · [Spring 2026]{.semester}
+
+Prof. [Nancy E. Hill](https://www.nancyehill.com/)
+:::
+
+::: teaching-card
+**Evidence (EVI-101)**
+[Harvard University]{.institution} · [Summer 2022, 2024 · Winter 2026]{.semester}
+
+Prof. [Jimmy Kim](https://www.gse.harvard.edu/directory/faculty/james-kim) & Prof. [Alejandro Ganimian](https://www.gse.harvard.edu/directory/faculty/alejandro-ganimian)
+:::
+
+---
+
+## Instructor
+
+::: teaching-card
+**Management Science Methods (MN 2032)**
+[University of London]{.institution} · [2019–2021]{.semester}
+
+Visiting Lecturer
+:::

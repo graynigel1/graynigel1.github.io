@@ -1,5 +1,73 @@
 ---
 title: "Research"
+toc: false
 ---
 
-You can find my research and current projects here:
+## Journal Articles
+
+::: teaching-card
+**The Invisible Hurdle: Hidden Costs for First-time, International, Graduate Students in the United States**
+[*Journal of International Students*, 2023, 42–47]{.institution}
+
+[Publisher](https://www.ojed.org/jis/article/view/5355)
+
+<details>
+<summary>Abstract</summary>
+International students pursuing higher education in the United States incur additional expenses compared to domestic students by spending on foreign credential evaluations and visa applications. These costs are usually not reflected in program fee structures, are non-refundable, and are not covered by financial aid, creating significant, and often unforeseen, financial strains on international students, particularly those from low-income backgrounds. This study compared the costs of two major foreign credential evaluators (Educational Credential Evaluators and World Education Services) and factored in the price of visa processing fees and the I-901 Student and Exchange Visitor Information System fee. It found that First-time, International, Graduate students pay up to $691 for foreign credential evaluations and visa applications. The paper suggests that higher education institutions should provide more transparent fee breakdowns and enhance financial aid packages to better support these students.
+</details>
+:::
+
+---
+
+## Work in Progress
+
+::: teaching-card
+**Balancing Aspiration and Obligation: Gendered Cultural Scripts and Adolescents’ Educational Pathways**
+
+[with [Nancy E. Hill](https://www.nancyehill.com/) · *Manuscript Under Revise & Resubmit in Youth & Society*]{.institution}
+
+<details>
+<summary>Abstract</summary>
+Navigating sources of support and expectations are central to adolescents’ transition to adulthood. For upwardly mobile families in evolving collectivist cultures, expectations are shaped by cultural clashes, gendered norms, and filial piety. Based on focus groups with 40 adolescents (ages 14-18; 50% female), this study examined how youth in a collectivist context negotiate diverging cultural pressures, parental expectations, and social comparisons. Adolescents navigated competing cultural values by selectively complying with family demands, reframing obligations as purposeful, and balance between personal interests and socially valued careers. Parents’ persistent comparisons and high expectations often left adolescents feeling that no level of success was sufficient. Girls described heightened constraints tied to gendered expectations of obedience and family reputation. These findings illustrate how adolescents in collectivist settings navigate tensions between tradition and autonomy through strategies that balance family obligation and personal agency.
+</details>
+:::
+
+
+::: teaching-card
+**From Believing to Becoming: Longitudinal Associations of Adolescent Identity, Self-Efficacy, and Pathways Into STEM**
+
+[with [Nancy E. Hill](https://www.nancyehill.com/) · *Manuscript Under Review in Journal of Educational Psychology*]{.institution}
+
+<details>
+<summary>Abstract</summary>
+Amidst rising demand for STEM graduates, what matters more for long-term STEM engagement among adolescents - confidence in one’s ability or feeling recognized and seeing oneself as a STEM person? Persistent gender and racial disparities in the pursuit of STEM fields make it important to identify the motivational processes associated with STEM achievement and selecting college majors in college across groups. Using structural equation modeling, this study used four waves of the High School Longitudinal Study of 2009 (*N*=11,417; 55% female) and modeled math and science identity and self-efficacy as parallel predictors of grades and STEM college major choice. We found that identity was more salient than efficacy in predicting STEM major choice. Confirmatory factor analyses showed acceptable fit for our measurement models and supported measurement invariance across time, gender, race, and interactions between race and gender. Indirect paths via grades in 12th grade were significantly larger for identity than for self-efficacy, suggesting identity’s stronger developmental relevance for STEM major decisions. Identity showed stronger temporal stability than self-efficacy. Reciprocal cross-lagged paths varied. In math, early identity predicted later self-efficacy whereas early self-efficacy did not predict later identity; in science, the paths were similar in magnitude. Both constructs predicted domain-specific grades. Only identity showed a direct positive association with choosing a STEM major, whereas the direct self-efficacy path was nonsignificant in math and negative in science. These patterns were consistent across gender and race.  
+</details>
+:::
+
+::: teaching-card
+**Forecasting an Uncertain Future: How Perceptions of Future Instability Evolve From Adolescence to Adulthood **
+
+[with [Nancy E. Hill](https://www.nancyehill.com/) and Mikayla My Do · *Manuscript Under Review in Developmental Psychology*]{.institution}
+
+<details>
+<summary>Abstract</summary>
+Young adults face significant uncertainties as they transition from adolescence into adulthood, especially regarding their future job prospects and economic stability. For many, these concerns may give rise to perceptions of future instability, which may impact mental health and academic engagement. Understanding how perceptions of future instability evolve, the internal factors shaping them, and the role of parents are essential for supporting youth during the transition to adulthood. This study examined individual trajectories of  perceptions of future instability using data from the Panel Study of Income Dynamics (*N*=2,228), covering three developmental stages – early adolescence (11-15 years), the transition to adulthood (16-23), and young adulthood (24-27). Piecewise growth curve modeling showed that perceptions of future instability remained stable during early adolescence, rose during the transition to adulthood, and stabilized in young adulthood. African American and Hispanic individuals showed slower growth in perceptions of future instability during the transition to adulthood compared to White individuals. Parental warmth predicted a slower increase in perceptions of future instability  during the transition to adulthood,  whereas communication with mothers about the future was linked to greater increases in these perceptions. A stronger sense of purpose, financial responsibility, and well-being buffered against the rise in perceptions of future instability. Higher self-esteem in adolescence was associated with lower initial perceptions but a greater increase in future instability perceptions during the transition to adulthood. These findings motivate society to rethink expectations of adulthood regarding job stability and family formation while promoting policies that support young adults’ resilience, purpose, and equitable opportunities. 
+</details>
+:::
+
+---
+
+## Pre-Doctoral Studies (Before 2023)
+
+### Reports
+
+::: teaching-card
+**[Gender-Responsive Budgeting: Evaluating Key Performance Indicators](https://www.veriteresearch.org/publication/gender-responsive-budgeting-evaluating-key-performance-indicators/)**
+
+[with Udahiruni Atapattu · *Verité Research (2021)*]{.institution}
+:::
+
+::: teaching-card
+**[NLET Youth in Sri Lanka: A Constrained Optimization Problem](https://www.veriteresearch.org/publication/youth-labour-market-assessment-sri-lanka-2020/)**
+[Improving Youth Employment & Entrepreneurship in Sri Lanka: Insights and Strategies · *Verité Research (2020)*, 18–25]{.institution}
+:::

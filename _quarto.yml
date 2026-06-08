@@ -1,26 +1,56 @@
 project:
   type: website
-  output-dir: docs
   
+  preview:
+    port: 5566
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+  output-dir: docs
   render:
     - "*.qmd"
-  
+    
+resources:
+  - assets/fontawesome/**
+  - fonts/
+
 website:
   search: false
+  page-navigation: true
   navbar:
-    background: "#ffffff"
+    background: "#FFFF"
+    pinned: true
+    
     left:
       - text: "Nigel Gray"
-        href: index.qmd 
+        href: index.qmd
     
     right:
-      - about.qmd
-      - research.qmd
+      - text: "About"
+        file: about.qmd
+      - text: "Research"
+        file: research.qmd
+      - text: "Teaching"
+        file: teaching.qmd
+      - text: "CV"
+        file: cv.qmd
+
+  page-footer:
+    border: true
+    left: >-
+      &#169; <span id="copy-year"></span> Nigel Gray
+      <script>
+        document.addEventListener('DOMContentLoaded', () =>
+          document.getElementById('copy-year').textContent = new Date().getFullYear()
+        );
+      </script>
+    right: >-
+      [View the source on GitHub](https://github.com/graynigel1)
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
-    css: styles.css
+      light:
+      - html/custom.scss
     toc: true

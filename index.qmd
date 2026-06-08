@@ -1,11 +1,40 @@
 ---
-title: "Nigel<br>Dinendra Gray"
-subtitle: "Harvard University"
+pagetitle: "Nigel Gray | Home"
+title: "Nigel Dinendra Gray"
+subtitle: "HARVARD UNIVERSITY"
 image: Images/nigel.jpg
+toc: false
+page-layout: full
+format:
+  html:
+    quarto-template-params:
+      banner-header-class: "home"
+
 about: 
+  id: hero-heading
   template: trestles
+  image-width: 15em
+  image-shape: round
+  links:
+    - text: "{{< fa solid envelope >}}"
+      href: "mailto:nigelgray@gse.harvard.edu"
+    - text: "{{< fa brands orcid >}}"
+      href: "https://orcid.org/0000-0002-4101-3858"
+    - text: "{{< fa brands google-scholar >}}"
+      href: "https://scholar.google.com/citations?user=hTa5L1UAAAAJ&hl=en"
+    - text: "{{< fa brands github >}}"
+      href: "https://github.com/graynigel1"
+    - text: "{{< fa brands linkedin >}}"
+      href: "https://www.linkedin.com/in/nigeldgray/"
+    - text: "{{< fa brands x-twitter >}}"
+      href: "https://x.com/graynigel1"
 ---
+<div style="text-align: justify">
 
-This is another change!
+Hi! I’m a fourth-year Ph.D. student in Education with a concentration in adolescent development. My research examines **how adolescents and families negotiate educational and career futures in Sri Lanka amid globalization, social change, and enduring gendered scripts**. I am especially interested in how adolescents make sense of emerging aspirations alongside familial obligations, and how these processes shape their sense of purpose and mental health. My work considers how families co-construct meaningful futures, coordinate pathways toward those futures, and navigate moments of alignment or disagreement over what is possible, desirable, and socially valued.
 
-Hello! I'm a Ph.D. student at Harvard University and I do research about ...
+My work combines mixed-methods field research with psychometric validation and structural equation modeling. Over the past three years, I have established research-practice partnerships with urban and rural schools in Sri Lanka where I conducted surveys and focus groups. These projects examine how youth navigate obligations to family while aspiring toward personally meaningful futures. Together, this serves as a foundation for a broader conceptual model of family future-making examining how adolescents and parents navigate alignment, partial agreement, and disagreement over future pathways.
+
+At Harvard, I am affiliated with the [Lakshmi Mittal and Family South Asia Institute](https://mittalsouthasiainstitute.harvard.edu/graduate-student-associates/). I have also presented my work at conferences both in the U.S. and internationally including SRA, SRCD, ISSBD, and EARA. My broader aim is to produce research in adolescent development that informs equitable youth policy in Sri Lanka and the broader South Asian region.
+
+</div>

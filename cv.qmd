@@ -1,0 +1,16 @@
+---
+title: Curriculum vitæ
+toc: false
+---
+
+```{=html}
+<p class="text-center" style="margin-bottom: 1.5rem;">
+  <a class="btn btn-primary btn-lg cv-download" href="files/cv/nigel-gray-cv.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download CV
+  </a>
+</p>
+
+<div class="embed-container">
+  <iframe src="files/cv/nigel-gray-cv.pdf" style="border: 0.5px solid #ddd; width: 100%; height: 900px;"></iframe>
+</div>
+```

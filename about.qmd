@@ -1,9 +1,12 @@
 ---
-title: "About"
+title: "Bio"
+page-layout: full
 ---
 
-About this site
+I was born and raised in Sri Lanka, where I completed my Bachelor’s degree in Economics and Management through the University of London’s International Program. After graduating, I worked as an Economics Research Assistant at an interdisciplinary think tank in Sri Lanka and as a Visiting Lecturer, teaching Management Science Methods to undergraduate students. Teaching during the pandemic made visible how unevenly students were positioned to benefit from educational opportunities, especially when access to online learning, academic support, and family resources differed sharply. These experiences pushed me to think more critically about how education systems respond to inequality, leading me to pursue a Master’s in Education Policy and Analysis at Harvard University.
 
-```{r}
-1 + 1
-```
+Over time, my interests moved from education policy toward the developmental processes through which adolescents come to imagine their futures. While policy helped me think about access, opportunity, and inequality, I became increasingly interested in how young people interpret the opportunities available to them, and how these interpretations are shaped by family expectations, gendered norms, cultural obligation, and economic uncertainty. This led me to ask whether dominant theories of adolescent development sufficiently account for youth growing up in settings where personal aspiration and family obligation are deeply connected.
+
+This question now guides my doctoral work at Harvard. My research examines how adolescents and parents negotiate future pathways in a globalizing Sri Lanka. I study how families define meaningful futures, coordinate pathways toward those futures, and reconcile adolescents’ aspirations with obligations to family and society. In my current work with [Professor Nancy E. Hill](https://www.nancyehill.com/), I am building a longitudinal dataset in Sri Lanka, with attention to parenting, identity, mental health, and educational decision-making. My aim through this work is to bring adolescents’ lived experiences into stronger conversation with developmental theory, measurement, and policy. You can find details about my current work in the [research](/research/) tab of this website. 
+
+Outside work, I actively play tennis (and serve as a Tennis Officer in the Harvard Graduate Student Tennis Club) and recently started bouldering.

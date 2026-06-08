@@ -1,0 +1,38 @@
+---
+title: "Projects"
+toc-location: right
+---
+
+I share here some tools, code, and academic projects I've developed that may be useful to others.
+
+## Software & Tools
+
+::: publication
+### [Project/Tool Name]
+
+**Language**: R / Python / Stata  
+**Description**: Brief description of what the tool does and who it would be useful for.  
+**Repository**: [{{< fa brands github >}}](https://github.com/graynigel1)
+:::
+
+## Academic Projects
+
+::: publication
+### Longitudinal Survey Study on Adolescent Development in Sri Lanka
+
+**Collaborators**: [Prof. Nancy E. Hill](https://www.nancyehill.com/)  
+**Description**: Building a novel longitudinal dataset on adolescent development in Sri Lanka, examining how parental expectations, gender norms, and cultural values shape educational and career decisions among adolescents in urban and rural contexts.  
+**Status**: Data collection ongoing (2023–present)
+:::
+
+::: publication
+### Cross-National Study on Adolescent Aspirations
+
+**Collaborators**: Research teams from the U.S., China, and Vietnam  
+**Description**: Cross-national comparative study examining how sociocultural context shapes adolescents' educational aspirations and career planning across different cultural settings.  
+**Status**: In progress
+:::
+
+---
+
+If you are interested in collaborating or have questions about any of these projects, feel free to [reach out](mailto:nigelgray@gse.harvard.edu).
